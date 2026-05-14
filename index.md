@@ -3,6 +3,7 @@
 Welcome to my portfolio for the Social Robot Design course.
 
 ## About Me
+
 [Go to About Me](about.md)
 
 ## Group Work
@@ -13,8 +14,10 @@ Welcome to my portfolio for the Social Robot Design course.
 - [Building Blocks](group-work/building-blocks.md)
 - [Functional Breakdown](group-work/functional-breakdown.md)
 - [Experimental Approach](group-work/experimental-approach.md)
+- [Expressiveness – TouchDesigner Puppeteering Workshop](group-work/expressiveness.md)
 
 ## Collaborators
+
 - Nelaturi Kamalini Saugandhika
 - Anna Hornman
 - Flim de Jong

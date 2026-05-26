@@ -15,6 +15,7 @@ Welcome to my portfolio for the Social Robot Design course.
 - [Functional Breakdown](group-work/functional-breakdown.md)
 - [Experimental Approach](group-work/experimental-approach.md)
 - [Expressiveness – TouchDesigner Puppeteering Workshop](group-work/expressiveness.md)
+- [Embodiment](group-work/embodiment.md)
 
 ## Collaborators
 

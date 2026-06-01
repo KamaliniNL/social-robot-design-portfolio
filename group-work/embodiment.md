@@ -17,13 +17,13 @@ For our case - a MiRo-E robot checking in on students during study sessions - em
 
 The session used an **EduLARP** (educational live-action roleplay) format where each group member was assigned a character card representing a different stakeholder interacting with the robot, then navigated time-jumps to 2052 and 2070 to explore how the robot's role and context evolves.
 
-![Getting into character — task slide from the session](session4-task.jpeg)
+![Getting into character — task slide from the session](../assets/session4-task.jpeg)
 
-![Reflection on theories — lecture slide contextualising the exercise](session4-theories.jpeg)
+![Reflection on theories — lecture slide contextualising the exercise](../assets/session4-theories.jpeg)
 
 The exercise pushed us to inhabit perspectives we do not usually centre in design: not just the student user, but also the teacher, the parent, and even the pet. One of our character cards was **Puck** - a pet, with the emotion "amazed, bewildered, distracted" and the value "connection and love."
 
-![Character card: Puck the pet](session4-character.jpeg)
+![Character card: Puck the pet](../assets/session4-character.jpeg)
 
 That sounds whimsical, but it raises a genuine design question: the robot occupies physical space in a room with multiple non-human and non-primary actors. A robotic presence that a pet reacts to is a robotic presence that has *actual physical presence* and not a screen, or a voice assistant. The embodiment is doing work.
 
@@ -33,7 +33,7 @@ That sounds whimsical, but it raises a genuine design question: the robot occupi
 
 Our group's robot in this exercise was **DonE** - our MiRo-E case.
 
-![Group worksheet — DonE, our MiRo-E social robot](session4-worksheet.jpeg)
+![Group worksheet — DonE, our MiRo-E social robot](../assets/session4-worksheet.jpeg)
 
 Key outputs from the worksheet:
 
@@ -58,7 +58,7 @@ The nagging risk is particularly relevant to embodiment. A push notification is 
 
 During the session we also got hands-on time with the MiRo-E robot itself.
 
-![MiRo-E with a party hat during the session](session4-miro.jpeg)
+![MiRo-E with a party hat during the session](../assets/session4-miro.jpeg)
 
 The party hat was added as a playful embodiment experiment and it actually illustrates the session's core point well. Adding a single physical accessory changes the perceived character of the robot noticeably. MiRo with a party hat feels festive, celebratory, lower-stakes. The same robot without it reads as a more neutral, observational presence. Form really does define the interaction expectation.
 

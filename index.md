@@ -1,4 +1,4 @@
-# Social Robot Design Portfolio
+# MY PORTFOLIO
 ### Nelaturi Kamalini Saugandhika, MSc Interaction Technology, University of Twente
 
 ---

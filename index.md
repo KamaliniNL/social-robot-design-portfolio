@@ -2,6 +2,10 @@
 ### Nelaturi Kamalini Saugandhika, MSc Interaction Technology, University of Twente
 
 ---
+This portfolio documents the design process undertaken during the course *Social Robot Design* at the University of Twente. The work centres on a MiRo-E social robot designed to support student wellbeing in university study spaces. Each chapter addresses a distinct design dimension that consists of scenario building, expressiveness, embodiment, ethics, and behaviour.
+
+The portfolio reflects both individual interpretation and group collaboration. 
+
 
 ## Table of Contents
 

@@ -9,7 +9,7 @@ The portfolio reflects both individual interpretation and group collaboration.
 
 ## Table of Contents
 
-1. [About Me & Portfolio Overview](about.html)
+1. [About Me](about.html)
 2. [Case Description](chapters/case-description.html)
 3. [Scenario Design Tool](chapters/scenario-design.html)
 4. [Expressiveness Design Tool](chapters/expressiveness.html)

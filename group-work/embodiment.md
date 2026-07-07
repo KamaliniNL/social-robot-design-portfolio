@@ -1,4 +1,74 @@
-# Embodiment : Session 4
+# Embodiment Design Tool — Session 4
+
+---
+
+## Context
+
+Embodiment is about more than what a robot looks like. It is about what a physical presence *affords*. A robot's size, shape, material, and form determine how close people will approach it, what they expect it to be capable of, and whether they feel a genuine social presence rather than interacting with a screen. The session drew on Hall's proxemics theory, Norman's affordances, and empirical work on co-presence to make this point: the body is not decoration, it is argument.
+
+For our case, a MiRo-E robot supporting student wellbeing in a study space, embodiment choices are not neutral. MiRo-E's animal-shaped, tabletop-scale form directly shapes the kind of interaction it invites: low-stakes, approachable, and non-intrusive. This session gave the group tools to reason about those choices more rigorously.
+
+![Theoretical framing slide from the session covering proxemics, affordances, and co-presence](../assets/session4-theories.jpeg)
+*Figure 1: Lecture slide contextualising the embodiment design space - Hall's proxemics, Norman's affordances, and co-presence literature were the three theoretical anchors for the session.*
+
+---
+
+## State of the Art: Which Robots Do Researchers Actually Use?
+
+A quick literature scan revealed that the large majority of HRI research defaults to Pepper or NAO, not because these are optimal for a given task, but because they are what labs have available. This pattern holds across education, healthcare, and hospitality contexts. Notable exceptions exist: elderly care research gravitates toward PARO because softness and non-threatening scale fit the context better, and assistive robotics work occasionally uses purpose-built platforms.
+
+The conclusion the group reached is that hardware availability quietly shapes what research questions even get asked. When a lab only has Pepper, studies get designed around Pepper's affordances. This framing helped justify a more deliberate approach to our own platform choice.
+
+---
+
+## Morphological Overview: The Embodiment Design Space
+
+When freed from availability constraints, the design space for a social robot opens up considerably. The matrix below maps robots across key embodiment dimensions.
+
+| | Animal-shaped | Human-shaped | Human-sized | Non-human/non-animal | Smaller scale | White plastic | Other colour/material |
+|---|---|---|---|---|---|---|---|
+| **Animal-shaped** | - | | ✓ | | | | |
+| **Human-shaped** | Miroka | - | | | | | |
+| **Human-sized** | Theme park robots | Any humanoid (1X, Tesla, Unitree) | - | | | | |
+| **Non-human/non-animal** | - | - | IDo | - | | | |
+| **Smaller scale** | iCat, PARO, MiRo, Spritebot | NAO | - | Anki Cozmo | - | | |
+| **White plastic** | MiRo | Pepper, NAO | Pepper | IDo | NAO, MiRo | - | |
+| **Other colour/material** | iCat, PARO, Spritebot | Miroka | Miroka | iCat | iCat | | - |
+
+**Suitability analysis for our case:**
+
+MiRo-E scores well on several dimensions relevant to a student study space. It is small enough to sit on a desk without dominating the space, animal-shaped which lowers the social pressure of interaction, and its white-and-grey colouring fits a wellbeing context without signalling clinical or surveillance intent. Human-sized humanoids like Pepper would create proxemic tension in a small study room - occupying the personal zone of someone sitting at a desk. Highly stylised or brightly coloured robots might work for children but would feel out of place in a university study environment.
+
+---
+
+## HRI Knowledge Embedded in the Tools
+
+Existing embodiment tools span several approaches: the open modular face platform (IEEE, 2015) enables physical assembly of facial feature modules; the Shaping Expressiveness workshop uses movement analysis to help designers understand expressive range; Makey Makey enables rapid tangible prototyping of affordances. None of these specifically help a designer reason about the *social fit* between a robot's body, its deployment context, and the expectations that body generates in users. The group's two tool proposals address this gap.
+
+**Dreamworld (AI-generative tool)** is a web-based tool where a designer first sketches a structural wireframe of a robot, essentially its skeleton, committing to proportions, appendages, and scale relative to a human figure and then a generative AI completes the surface design based on contextual prompts. The critical step is the skeleton; forcing the designer to commit to structural form before aesthetics separates decisions that are fundamentally about social role (how big, how many limbs, how close to human) from decisions that are about style. As Fong et al. (2003) demonstrate, perceived robot capability and social distance are shaped by morphological structure before surface treatment is considered. The generated outputs can be iterated quickly and shown to stakeholders for early reaction feedback.
+
+**EmbodimentDeck (card game)** is a structured card game with four categories: *Context cards* (where is the robot used?), *Actor cards* (who interacts with it?), *Expectation cards* (what does this person assume the robot can do?), and *Challenge cards* (what goes wrong when form and function mismatch?). Players draw combinations and must design an embodiment that satisfies the constraints or argue why no existing embodiment would work. This operationalises Dautenhahn's (2007) argument that embodiment is not separable from the social role the robot is expected to play: the Expectation and Challenge cards make explicit what a user will assume based on how a robot looks, and what happens when that assumption fails.
+
+The two tools are complementary: EmbodimentDeck for early-stage problem framing with stakeholders, Dreamworld for rapid visual iteration once the design space is narrowed.
+
+![MiRo-E during the hands-on session with a party hat added as a playful embodiment experiment](../assets/session4-miro.jpeg)
+*Figure 2: MiRo-E during the session with a party hat - adding a single physical accessory visibly shifted the robot's perceived character, illustrating how minor form changes alter interaction expectations.*
+
+---
+
+## Impact on the Case Description
+
+Prior to this session, the group had selected MiRo-E primarily on the basis of availability and its biomimetic character. The morphological analysis made this reasoning explicit and defensible. The session also surfaced a tension that had not been fully considered: the same physical presence that makes MiRo-E effective. It is harder to ignore than a notification; also makes it potentially intrusive. This became a standing design constraint carried into all subsequent sessions. The ethics implications of this tension are explored further in the [Ethics / EduLARP section](ethics-edularp.md).
+
+---
+
+**References:**
+- Dautenhahn, K. (2007). Socially intelligent robots: dimensions of human-robot interaction. *Philosophical Transactions of the Royal Society B.*
+- Fong, T., Nourbakhsh, I., & Dautenhahn, K. (2003). A survey of socially interactive robots. *Robotics and Autonomous Systems.*
+- Hall, E. T. (1966). *The Hidden Dimension.* Doubleday.
+
+
+<!-- # Embodiment : Session 4
 
 *Group work : Session 4*  
 *Collaborators: Anna Hornman, Flim de Jong, Liz van Ginderen, Oyindrila Sen Gupta, Sarah Mans, Nelaturi Kamalini Saugandhika*
@@ -20,7 +90,7 @@ The session used an **EduLARP** (educational live-action roleplay) format where 
 <!-- ![Getting into character - task slide from the session](../assets/session4-task.jpeg)
 *Figure 1: Task slide from the EduLARP session - participants were assigned character cards and asked to inhabit stakeholder perspectives across two future time-jumps.* -->
 
-![Reflection on theories - lecture slide contextualising the exercise](../assets/session4-theories.jpeg)
+<!-- ![Reflection on theories - lecture slide contextualising the exercise](../assets/session4-theories.jpeg)
 *Figure 2: Theoretical framing slide from the session - Hall's proxemics, Norman's affordances, and co-presence literature contextualised the embodiment design space.*
 
 The exercise pushed us to inhabit perspectives we do not usually centre in design: not just the student user, but also the teacher, the parent, and even the pet. One of our character cards was **Puck** - a pet, with the emotion "amazed, bewildered, distracted" and the value "connection and love."
@@ -135,4 +205,4 @@ The two tools are complementary: EmbodimentDeck is for early-stage problem frami
 **References:**
 - Dautenhahn, K. (2007). Socially intelligent robots: dimensions of human-robot interaction. *Philosophical Transactions of the Royal Society B.*
 - Fong, T., Nourbakhsh, I., & Dautenhahn, K. (2003). A survey of socially interactive robots. *Robotics and Autonomous Systems.*
-- Hall, E. T. (1966). *The Hidden Dimension.* Doubleday.
+- Hall, E. T. (1966). *The Hidden Dimension.* Doubleday. -->

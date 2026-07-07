@@ -5,7 +5,7 @@ MSc Interaction Technology, University of Twente
 
 ---
 
-My background is in Computer Science Engineering, with a focus on technology (mainly software). During my master's programme at the University of Twente, a course on *Trends in Human-Robot Interaction* brought my attention to the social and relational dimensions of robotic systems — specifically, how the design of a robot's behaviour shapes the quality of interaction beyond mere task performance. This course, *Social Robot Design*, offered me the opportunity to learn more about it.
+My background is in Computer Science Engineering, with a focus on technology (mainly software). During my master's programme at the University of Twente, a course on *Trends in Human-Robot Interaction* brought my attention to the social and relational dimensions of robotic systems, specifically, how the design of a robot's behaviour shapes the quality of interaction beyond mere task performance. This course, *Social Robot Design*, offered me the opportunity to learn more about it.
 
 
 ## Design Case

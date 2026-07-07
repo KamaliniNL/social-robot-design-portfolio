@@ -17,33 +17,37 @@ For our case - a MiRo-E robot checking in on students during study sessions - em
 
 The session used an **EduLARP** (educational live-action roleplay) format where each group member was assigned a character card representing a different stakeholder interacting with the robot, then navigated time-jumps to 2052 and 2070 to explore how the robot's role and context evolves.
 
-![Getting into character — task slide from the session](../assets/session4-task.jpeg)
+![Getting into character - task slide from the session](../assets/session4-task.jpeg)
+*Figure 1: Task slide from the EduLARP session - participants were assigned character cards and asked to inhabit stakeholder perspectives across two future time-jumps.*
 
-![Reflection on theories — lecture slide contextualising the exercise](../assets/session4-theories.jpeg)
+![Reflection on theories - lecture slide contextualising the exercise](../assets/session4-theories.jpeg)
+*Figure 2: Theoretical framing slide from the session - Hall's proxemics, Norman's affordances, and co-presence literature contextualised the embodiment design space.*
 
 The exercise pushed us to inhabit perspectives we do not usually centre in design: not just the student user, but also the teacher, the parent, and even the pet. One of our character cards was **Puck** - a pet, with the emotion "amazed, bewildered, distracted" and the value "connection and love."
 
 ![Character card: Puck the pet](../assets/session4-character.jpeg)
+*Figure 3: Character card - Puck the pet, with the emotion "amazed, bewildered, distracted" and the value "connection and love." Assigning this character forced the group to consider how MiRo-E's physical presence registers to non-human and non-primary actors in the space.*
 
-That sounds whimsical, but it raises a genuine design question: the robot occupies physical space in a room with multiple non-human and non-primary actors. A robotic presence that a pet reacts to is a robotic presence that has *actual physical presence* and not a screen, or a voice assistant. The embodiment is doing work.
+It raises a genuine design question: the robot occupies physical space in a room with multiple non-human and non-primary actors. A robotic presence that a pet reacts to is a robotic presence that has *actual physical presence* and not a screen, or a voice assistant. The embodiment is doing work.
 
 ---
 
-## Group Worksheet: DonE
+## Group Worksheet: 
 
-Our group's robot in this exercise was **DonE** - our MiRo-E case.
+Our group's robot in this exercise was **MiRo-E** - our MiRo-E case.
 
-![Group worksheet — DonE, our MiRo-E social robot](../assets/session4-worksheet.jpeg)
+![Group worksheet - our MiRo-E social robot](../assets/session4-worksheet.jpeg)
+*Figure 4: Group worksheet - mapping stakeholder characters, robot functions, and future scenario consequences across the EduLARP exercise.*
 
 Key outputs from the worksheet:
 
-**Robot context:** Students aged 18–25+, during study sessions. Functions mapped include relaxing, pep-talk encouragements, well-being check-ins, reminders, task management, and study time/duration tracking. Social encouragement was a recurring theme.
+**Robot context:** Students aged 18-25+, during study sessions. Functions mapped include relaxing, pep-talk encouragements, well-being check-ins, reminders, task management, and study time/duration tracking. Social encouragement was a recurring theme.
 
 **Characters and perspectives explored:**
-- Character 1 : "Good student" → encourage study break
-- Character 2 : "Bad student" → encourage studying
-- Character 3 : Teacher/TA → motivating student
-- Character 4 : Parent → feeling supportive, less study-focused interactions with child
+- Character 1 : "Good student" - encourage study break
+- Character 2 : "Bad student" - encourage studying
+- Character 3 : Teacher/TA - motivating student
+- Character 4 : Parent - feeling supportive, less study-focused interactions with child
 - Character 5 : Confusion (digitally illiterate, pet)
 
 **Future scenario - positive effects:** Increased student performance, better mental health of students, less teacher administrative burden.
@@ -59,6 +63,7 @@ The nagging risk is particularly relevant to embodiment. A push notification is 
 During the session we also got hands-on time with the MiRo-E robot itself.
 
 ![MiRo-E with a party hat during the session](../assets/session4-miro.jpeg)
+*Figure 5: MiRo-E during the hands-on session, with a party hat added as a playful embodiment experiment. The accessory visibly shifted the robot's perceived character, illustrating how minor physical additions alter interaction expectations.*
 
 The party hat was added as a playful embodiment experiment and it actually illustrates the session's core point well. Adding a single physical accessory changes the perceived character of the robot noticeably. MiRo with a party hat feels festive, celebratory, lower-stakes. The same robot without it reads as a more neutral, observational presence. Form really does define the interaction expectation.
 
@@ -99,6 +104,10 @@ What would make a robot *unsuitable* for this case: human-sized humanoids like P
 
 ---
 
+## Impact on the Case Description
+
+Prior to this session, the group had selected MiRo-E primarily on the basis of availability and its biomimetic character. It's animal-like form lowers the social pressure of interaction compared to humanoid alternatives and its non-clinical white-and-grey colouring fits a study environment without signalling medical or surveillance intent. The EduLARP exercise added a dimension that had not been explicitly considered: the nagging risk. A physical robot that approaches or changes posture to signal urgency is harder to dismiss than a notification, which means the same physical presence that makes the robot effective also makes it potentially intrusive. This tension of both affordance and risk became a standing design constraint for all later sessions.
+
 ### Design Tool Proposal
 
 **State of the art:**
@@ -106,6 +115,8 @@ What would make a robot *unsuitable* for this case: human-sized humanoids like P
 Existing tools span several categories. The open modular face platform (IEEE 2015) lets designers assemble facial feature modules physically. The Shaping Expressiveness paper (arXiv 2025) uses movement-analysis workshops with dancing to help engineers understand expressive range. Makey Makey enables rapid tangible interface prototyping using everyday conductive objects which are useful for testing embodied affordances before committing to hardware fabrication.
 
 None of these specifically help a designer reason about *social* robot embodiment from a user expectations perspective. They address form and movement, but not the fit between context, role, and body.
+
+## HRI Knowledge Embedded in the Tools
 
 **Our proposals:**
 
@@ -118,3 +129,10 @@ A structured card game with four categories of cards: *Context cards* (where is 
 Example round: Context = hospital waiting room / Actor = elderly patient / Expectation = "it will understand me" / Challenge = uncanny valley response. The game surfaces expectation-mismatch problems before prototyping, and the card format makes it accessible to non-technical stakeholders in participatory design sessions.
 
 The two tools are complementary: EmbodimentDeck is for early-stage problem framing with stakeholders; Dreamworld is for rapid visual iteration once the design space is narrowed.
+
+---
+
+**References:**
+- Dautenhahn, K. (2007). Socially intelligent robots: dimensions of human-robot interaction. *Philosophical Transactions of the Royal Society B.*
+- Fong, T., Nourbakhsh, I., & Dautenhahn, K. (2003). A survey of socially interactive robots. *Robotics and Autonomous Systems.*
+- Hall, E. T. (1966). *The Hidden Dimension.* Doubleday.

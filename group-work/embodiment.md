@@ -17,8 +17,8 @@ For our case - a MiRo-E robot checking in on students during study sessions - em
 
 The session used an **EduLARP** (educational live-action roleplay) format where each group member was assigned a character card representing a different stakeholder interacting with the robot, then navigated time-jumps to 2052 and 2070 to explore how the robot's role and context evolves.
 
-[![Getting into character - task slide from the session](../assets/session4-task.jpeg)]:#
-[*Figure 1: Task slide from the EduLARP session - participants were assigned character cards and asked to inhabit stakeholder perspectives across two future time-jumps.*]:#
+<!-- ![Getting into character - task slide from the session](../assets/session4-task.jpeg)
+*Figure 1: Task slide from the EduLARP session - participants were assigned character cards and asked to inhabit stakeholder perspectives across two future time-jumps.* -->
 
 ![Reflection on theories - lecture slide contextualising the exercise](../assets/session4-theories.jpeg)
 *Figure 2: Theoretical framing slide from the session - Hall's proxemics, Norman's affordances, and co-presence literature contextualised the embodiment design space.*

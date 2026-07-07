@@ -20,7 +20,7 @@ The resulting toolkit consists of three card types:
 
 The toolkit also includes a printed instruction manual, a structured evaluation form, and a QR code linking to a printable PDF of additional evaluation forms so as to ensure the tool can be used repeatedly without physical constraint.
 
-![The CardsAgainstRobots toolkit: three card piles (human action, robot action, wildcard), instruction manual, and evaluation forms laid out on a table](../assets/srd_cards.jpeg)
+![The CardsAgainstRobots toolkit: three card piles (human action, robot action, wildcard), instruction manual, and evaluation forms laid out on a table](../assets/cards.jpeg)
 *Figure 1: The full CardsAgainstRobots toolkit - card piles, instruction manual, and evaluation forms. The three card types are colour-coded to distinguish student states, robot actions, and wildcards.*
 
 ---
@@ -53,13 +53,13 @@ Both modes share the same evaluation form, allowing observations across games to
 
 The session was conducted with six participants using the actual MiRo-E robot, puppeteered via a game controller. The robot was connected to a laptop by cable, which limited its range of movement - a constraint that became relevant during evaluation.
 
-![Game 1 in progress: a participant enacts the student role while another controls MiRo-E with the game controller; observers hold evaluation forms](../assets/srd_game_1_(1).jpeg)
+![Game 1 in progress: a participant enacts the student role while another controls MiRo-E with the game controller; observers hold evaluation forms](../assets/game1.jpeg)
 *Figure 2: Game 1 - Random Scenario Card Improvisation in progress. One participant puppeteers MiRo-E while another enacts the student state drawn from the human action pile. Observers rate the interaction using the evaluation form.*
 
-![Game 2 in progress: participants discuss and rank five robot action cards laid out on the table alongside the human action card](../assets/srd_game_2_(1).jpeg)
+![Game 2 in progress: participants discuss and rank five robot action cards laid out on the table alongside the human action card](../assets/game2.jpeg)
 *Figure 3: Game 2 - Mix and Match. Participants rank five robot action cards against a single human action card, discussing the reasoning behind each ranking before agreeing on the best outcome.*
 
-![A participant puppeteering the robot actions, with MiRo-E](../assets/srd_puppeteering.jpeg)
+![A participant puppeteering the robot actions, with MiRo-E](../assets/puppeteering.jpeg)
 *Figure 4: The puppeteering setup - MiRo-E is controlled via a game controller, with the laptop connection visible. The cable constraint meant the robot's movement range was limited to the immediate area around the table.*
 
 ### Game 1 : Observed Scenario
@@ -77,7 +77,7 @@ Cards drawn: Human Action - *"Switching tasks often"*; Robot Action cards - *"Pu
 After discussion, participants ranked *"Done with homework?"* as the best fit as it felt least intrusive and most conversational. Especially for a student who was already moving between tasks. The wildcard introduced was *"Human doesn't like the robot"*, which shifted the ranking. The discussion itself, not just the outcome, was where the design value emerged as participants made criteria for appropriate robot behaviour that they had not stated before drawing the cards.
 
 ---
-![A participant completing the evaluation form after an enacted scenario](../assets/srd_poster_eval_(1).jpeg)
+![A participant completing the evaluation form after an enacted scenario](../assets/evaluationform.jpeg)
 *Figure 5: The evaluation form being filled.*
 ## Evaluation and Reflection
 

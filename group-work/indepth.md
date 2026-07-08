@@ -15,13 +15,10 @@ underlying design tension, between helpful intervention and unwanted intrusion a
 would encounter.
 
 By Session 6, the group had identified that what was needed was not a better script but a tool for *exploring* the space of possible interactions rather than committing to one. Early 
-group notes from that session listed several tool directions — flowcharts, ARC software recipes, cognitive walkthroughs — before landing on the card-based improv format, inspired by 
-*Cards Against Humanity* and scripted improv theatre. The core idea was a tool that is structured enough to generate specific scenarios but open enough to let unexpected behaviour 
+group notes from that session listed several tool directions like flowcharts, ARC software recipes and cognitive walkthroughs, before landing on the card-based improv format, inspired by *Cards Against Humanity* and scripted improv theatre. The core idea was a tool that is structured enough to generate specific scenarios but open enough to let unexpected behaviour 
 emerge through enactment with the actual robot.
 
-Scenario design was the right direction because it operates at the level of interaction rather than implementation. It does not require a working autonomous system. It requires a physical
-robot, people willing to inhabit roles, and a structured framework for capturing what enactments reveal. This extends naturally from LEADOR (Winkle et al., 2021), which advocates for 
-in-situ participatory design where behaviour is explored through live enactment in the actual interaction context - rather than specified at a desk.
+Scenario design was the right direction because it operates at the level of interaction rather than implementation. It does not require a working autonomous system. It requires a physical robot, people willing to inhabit roles, and a structured framework for capturing what enactments reveal. This extends naturally from LEADOR (Winkle et al., 2021), which advocates for in-situ participatory design where behaviour is explored through live enactment in the actual interaction context, rather than specified at a desk.
 
 ---
 
@@ -30,23 +27,19 @@ in-situ participatory design where behaviour is explored through live enactment 
 The conceptualisation phase stretched from Session 1 through Session 6 and drew on three distinct threads of work.
 
 **Thread 1 - Early scenario exploration (Session 1 & 2).** The group selected three tools from the User Innovation Toolkit: Scenario Analysis, Storyboard, and Experience Map. These were 
-used to map out the interaction space before any physical prototype existed. The Session 2 work produced two scripted scenarios written in an Office-style documentary format - a structure
-that allowed characters to break the fourth wall and explain their internal state, making the emotional subtext of the interaction visible. The deaf student edge case was particularly 
-important: it showed that the robot's reliance on verbal communication was a fundamental design gap, not a minor edge case.
+used to map out the interaction space before any physical prototype existed. The Session 2 work produced two scripted scenarios written in an Office-style documentary format - a structure that allowed characters to break the fourth wall and explain their internal state, making the emotional subtext of the interaction visible. The deaf student edge case was particularly important as it showed that the robot's reliance on verbal communication was a fundamental design gap, not a minor edge case.
 
-The Session 2 script also produced the earliest concrete behaviour specification for MiRo-E. The robot was described as switching between two states — ears forward, light brightening, moving
-slightly closer (State 1) and ears back, light dimming, moving slightly away (State 2) - every 30 seconds until the student interacted. This state-switching logic anticipated the 
-approach-pause behaviour that later emerged from the card game testing.
+The Session 2 script also produced the earliest concrete behaviour specification for MiRo-E. The robot was described as switching between two states every 30 seconds until the student interacted:
+State 1: ears forward, light brightening, moving slightly closer 
+State 2: ears back, light dimming, moving slightly away 
+This state-switching logic anticipated the approach-pause behaviour that later emerged from the card game testing.
 
 **Thread 2 - Hardware and functional grounding (Session 1).** The group mapped MiRo-E's physical capabilities early: actuated eyes, 3DoF neck, built-in speakers, ear and tail movement, 
-lights, and wheel-based locomotion. The group also identified what could be Wizard-of-Ozzed - talking, physical expressions, movement — and what hardware extensions might be possible like
-additional speakers, physiological sensors for heartrate monitoring, accessories like different ears or collars to shift the robot's character. This grounding informed which robot actions 
-would be physically plausible to put on cards.
+lights, and wheel-based locomotion. The group also identified what could be Wizard-of-Ozzed - talking, physical expressions, movement and what hardware extensions might be possible like
+additional speakers, physiological sensors for heartrate monitoring, accessories like different ears or collars to shift the robot's character. This grounding informed which robot actions would be physically plausible to put on cards.
 
 **Thread 3 - Card concept emergence (Session 6).** The card concept was first sketched in Session 6 group notes as a table with three columns: Human Action, Robot Action, and Wildcards.
-Early example cards included "Sits at desk frustrated" / "Goes to desk", "Finally done!" / "Happy move", and "Spills coffee" / "Beeps aggressively." A rejected variant was also tried - one
-robot card and five human cards - but this did not work because human action always comes first in the timeline of an interaction. The robot reacts to the human, not the other way around. 
-This structural insight shaped the final two-game protocol.
+Early example cards included "Sits at desk frustrated" / "Goes to desk", "Finally done!" / "Happy move", and "Spills coffee" / "Beeps aggressively." A rejected variant was also tried - one robot card and five human cards. But this did not work because human action always comes first in the timeline of an interaction. The robot reacts to the human, not the other way around. This structural insight shaped the final two-game protocol.
 
 Two game modes emerged at this stage. Game 1 prioritised physical enactment and improvisation. Game 2 prioritised comparative ranking and discussion. Both were designed to be independent of each other.
 
@@ -59,7 +52,7 @@ forms. The colour coding and card variety reflect multiple iterations from the o
 ## Physicalisation
 
 The physicalisation phase involved printing the cards, producing the instruction manual, designing the evaluation form and guidelines, and writing the puppeteering guidelines. Session 8 
-group notes document the full booklet plan: game guidelines, evaluation guidelines, evaluation form, and guidance on using evaluation results - all brought together in a single physical
+group notes document the full booklet plan: game guidelines, evaluation guidelines, evaluation form, and guidance on using evaluation results; all brought together in a single physical
 booklet.
 
 **Cards:** The initial card set from Session 6 was small and lacked variety. The set was significantly expanded between the first draft and the final version to cover a wider range of 
@@ -117,19 +110,18 @@ and the test was re-run with the updated protocol.
 ![A participant completing the evaluation form after an enacted scenario](../assets/evaluationform.jpeg)
 *Figure 4 (Tool in action - evaluation): An observer completing the evaluation form after a Game 1 scenario.*
 
-**Game 1 — "Overwhelmed by work" + "Do you need a small break?"**
+**Game 1 - "Overwhelmed by work" + "Do you need a small break?"**
 
 The student participant put their head in their hands. MiRo-E was slowly driven toward them, head raised and turned, ears adjusted. The student watched with curiosity and eventually 
 reached out to pet the robot. Observer ratings were moderate on *effective* and *empathic*, lower on *natural*. The critical observation was that MiRo-E retreated immediately after the 
-student made contact, leaving the interaction without a closing gesture. The student was left uncertain. This was not a card design problem — it was a puppeteering and behaviour design 
+student made contact, leaving the interaction without a closing gesture. The student was left uncertain. This was not a card design problem but a puppeteering and behaviour design 
 problem. The robot needs a way to signal that the interaction has ended positively.
 
 **Game 2 - "Switching tasks often" + five robot action cards**
 
-Cards laid open: "Put the phone down", "What are you up to?", "Done with homework?", "Looking curious", and one additional. After discussion, "Done with homework?" was ranked best - it 
+Cards laid open: "Put the phone down", "What are you up to?", "Done with homework?", "Looking curious", and one additional. After discussion, "Done with homework?" was ranked best as it 
 felt least intrusive for a student already moving between tasks. The wildcard "Human doesn't like the robot" shifted the ranking: participants reasoned a more direct card like "Put the 
-phone down" would work better for a student who had already rejected softer approaches. The discussion itself was the most valuable output - participants articulated explicit criteria for
-appropriate robot behaviour that they had not stated before drawing the cards.
+phone down" would work better for a student who had already rejected softer approaches. The discussion itself was the most valuable output; participants articulated explicit criteria for appropriate robot behaviour that they had not stated before drawing the cards.
 
 **Unexpected findings:**
 
@@ -158,7 +150,7 @@ change.
 
 ## Evaluation and Reflection
 
-**Design outcome:** The toolkit produced concrete, actionable behaviour insights — approach with pause, retreat after interaction, the need for a closing gesture - that came from 
+**Design outcome:** The toolkit produced concrete, actionable behaviour insights such as approach with pause, retreat after interaction, the need for a closing gesture - that came from 
 enactment rather than design-time reasoning. This confirms the tool's core premise: appropriate social robot behaviour in a wellbeing context is perceived, not just designed, and 
 perception requires a body in a room. The robot design was more grounded and more specifically justified after using the tool than before.
 
@@ -166,9 +158,7 @@ perception requires a body in a room. The robot design was more grounded and mor
 usable by non-technical stakeholders, which matters for a wellbeing context where the relevant people are not engineers. It is generalisable: the card structure and evaluation protocol 
 could be adapted to a different robot platform or deployment context by replacing card content without changing the methodology.
 
-Its real limitations are three. First, the WoZ puppeteering means evaluation results are partly a function of puppeteer skill, not just robot behaviour design. Second, the cable-tethered 
-MiRo-E could not move freely, which constrained spatial behaviour testing - approach distance, a key variable in a wellbeing context, could not be fully explored. Third, the tool is 
-better suited to exploration and early evaluation than to final design validation.
+Its real limitations are three. First, the WoZ puppeteering means evaluation results are partly a function of puppeteer skill, not just robot behaviour design. Second, the cable-tethered MiRo-E could not move freely, which constrained spatial behaviour testing - approach distance, a key variable in a wellbeing context, could not be fully explored. Third, the tool is better suited to exploration and early evaluation than to final design validation.
 
 LEADOR (Winkle et al., 2021) frames CardsAgainstRobots well: it is a pre-implementation participatory design tool that helps surface which behaviours are worth building before any 
 programming begins. HRI CUES (Cuadra et al., 2024) grounds the evaluation component in an existing, validated observer-perspective methodology. Together they position the toolkit within 
@@ -180,12 +170,12 @@ established HRI design practice rather than as an isolated invention.
 
 My primary contributions were the evaluation guidelines and evaluation form (with Oyindrila Sen Gupta), supporting the video production, and working with Liz van Ginderen on the poster.
 
-Designing the observer criteria was the part I found most substantively interesting. The challenge was making criteria specific enough to produce useful data but general enough to apply 
-across very different scenarios. The decision to anchor the criteria in HRI CUES rather than inventing new ones was right - it connected the form to existing HRI evaluation methodology 
+Designing the observer criteria was the part I found the most interesting. The challenge was making criteria specific enough to produce useful data but general enough to apply 
+across very different scenarios. The decision to anchor the criteria in HRI CUES rather than inventing new ones was right as it connected the form to existing HRI evaluation methodology 
 and made the results interpretable beyond the group's own judgment.
 
 If I were to change one thing it would be the timing of the evaluation component. It arrived as a response to teacher feedback mid-process, which meant it was developed under time 
-pressure. Designing the evaluation protocol alongside the card set from the start - rather than as a retrofit - would have produced a tighter integration between what the cards generate 
+pressure. Designing the evaluation protocol alongside the card set from the start, rather than as a retrofit, would have produced a tighter integration between what the cards generate 
 and what the form is designed to capture.
 
 ---

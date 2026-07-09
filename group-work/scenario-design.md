@@ -10,7 +10,7 @@ This chapter documents the design and application of *CardsAgainstRobots*, a car
 
 ## Tool Structure and Conceptualisation
 
-The central design problem, as established in the case description, was that no single interaction model could account for the range of student states and contexts that DonE might encounter. Rather than resolving this early through assumption, the group chose to make the space of possibilities explorable — using an improvisation-based approach to surface what appropriate behaviour might look like before committing to a design direction.
+The central design problem, as established in the case description, was that no single interaction model could account for the range of student states and contexts that MiRo-E might encounter. Rather than resolving this early through assumption, the group chose to make the space of possibilities explorable — using an improvisation-based approach to surface what appropriate behaviour might look like before committing to a design direction.
 
 The resulting toolkit consists of three card types:
 

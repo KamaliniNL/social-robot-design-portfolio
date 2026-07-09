@@ -6,7 +6,7 @@
 
 ## Poster
 
-![CardsAgainstRobots poster - case, tool structure, game explanation, evidence of application, and result](../assets/Poster_SRD.png)
+![CardsAgainstRobots poster - case, tool structure, game explanation, evidence of application, and result](../assets/PosterSRD.png)
 *Figure 1: CardsAgainstRobots poster. The poster presents the case, research question, tool structure, both game modes, evidence of application with photos, and the result of testing.*
 
 The poster was designed to communicate the full project in a single view. The visual hierarchy moves from the case framing and research question at the top, through the tool description 

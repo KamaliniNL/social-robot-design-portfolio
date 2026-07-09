@@ -1,6 +1,6 @@
 # About Me
 
-**Kamalini Saugandhika Nelaturi**  
+**Nelaturi Kamalini Saugandhika**  
 MSc Interaction Technology, University of Twente  
 
 ---

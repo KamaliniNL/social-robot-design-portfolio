@@ -1,4 +1,4 @@
-# Embodiment Design Tool — Session 4
+# Embodiment Design Tool - Session 4
 
 ---
 

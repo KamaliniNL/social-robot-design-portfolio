@@ -1,6 +1,4 @@
-# Behaviour Design Tool — Session 6 & 7
-
-**Group collaborators:** Anna Hornman, Flim de Jong, Liz van Ginderen, Oyindrila Sen Gupta, Sarah Mans
+# Behaviour Design Tool - Session 6 & 7
 
 ---
 
@@ -61,7 +59,7 @@ The WoZ setup also surfaced a physical constraint: MiRo-E's cable connection to 
 approach distance; a key variable in a wellbeing context - could not be tested fully. The puppeteering guidelines developed during Session 7 addressed this by encouraging operators to 
 compensate with head orientation, ear position, and tail movement when locomotion was restricted.
 
-![The puppeteering session — a group member controls MiRo-E while others observe and fill in evaluation forms](../assets/srd_puppeteering.jpeg)
+![The puppeteering session - a group member controls MiRo-E while others observe and fill in evaluation forms](../assets/puppeteering.jpeg)
 *Figure 1: Wizard of Oz puppeteering session - one group member controls MiRo-E via game controller while observers rate the enacted scenario using the structured evaluation form.*
 
 ---

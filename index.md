@@ -7,7 +7,7 @@ This portfolio documents the design process undertaken during the course *Social
 The portfolio reflects both individual interpretation and group collaboration. 
 
 
-## Table of Contents
+## Table of Contents (Rubrics)
 
 1. [About Me](about.md)
 2. [Case Description](group-work/case-description.md)
@@ -20,6 +20,13 @@ The portfolio reflects both individual interpretation and group collaboration.
 9. [Poster & Movie](group-work/poster-movie.md)
 
 ---
+
+## Other Contents
+1. [Building Blocks](group-work/building-blocks.md)
+2. [Experiment Approach](group-work/exp-approach.md)
+3. [Mind Map](group-work/mindmap.md)
+4. [Story Building](group-work/storybuilding.md)
+5. [Tools](group-work/tools.md)
 
 ## Collaborators
 Anna Hornman, Flim de Jong, Liz van Ginderen, Oyindrila Sen Gupta, Sarah Mans

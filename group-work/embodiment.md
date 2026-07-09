@@ -52,6 +52,7 @@ Existing embodiment tools span several approaches: the open modular face platfor
 The two tools are complementary: EmbodimentDeck for early-stage problem framing with stakeholders, Dreamworld for rapid visual iteration once the design space is narrowed.
 
 ![MiRo-E during the hands-on session with a party hat added as a playful embodiment experiment](../assets/session4-miro.jpeg)
+
 *Figure 2: MiRo-E during the session with a party hat - adding a single physical accessory visibly shifted the robot's perceived character, illustrating how minor form changes alter interaction expectations.*
 
 ---

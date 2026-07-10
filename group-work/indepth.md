@@ -61,17 +61,18 @@ productive but off-task. Robot Action cards include verbal prompts ("Do you need
 card visual design was handled by Liz van Ginderen, with colour coding and iconography making card type immediately legible.
 
 Here are all the cards used:
-Human Actions:
+
+## Human Actions:
 <img width="318" height="505" alt="image" src="https://github.com/user-attachments/assets/a7812e3c-9876-4554-b747-2988eb718d8d" />
 <img width="288" height="500" alt="image" src="https://github.com/user-attachments/assets/e4131393-958b-4913-9e8e-7b3fa5296309" />
 <img width="258" height="500" alt="image" src="https://github.com/user-attachments/assets/2803c68d-fec5-4a60-aee0-f4af74a00a16" />
 
-Robot Actions:
+## Robot Actions:
 <img width="272" height="498" alt="image" src="https://github.com/user-attachments/assets/e4e7734b-651e-46e5-a17b-a18e2a53dc38" />
 <img width="268" height="493" alt="image" src="https://github.com/user-attachments/assets/cc7c773b-919b-47db-87c6-265a09c1bd8b" />
 <img width="264" height="495" alt="image" src="https://github.com/user-attachments/assets/af3181f7-d01f-4127-992c-360ced40a1e0" />
 
-Wildcards:
+## Wildcards:
 <img width="262" height="491" alt="image" src="https://github.com/user-attachments/assets/365358e0-5bb1-4bfd-8156-9f693c35f519" />
 <img width="261" height="496" alt="image" src="https://github.com/user-attachments/assets/718da82e-7155-4411-b8f4-67406378cfa6" />
 <img width="263" height="495" alt="image" src="https://github.com/user-attachments/assets/7036eb7b-8a13-4398-bf30-9e5216197fa8" />

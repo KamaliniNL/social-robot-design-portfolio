@@ -76,7 +76,7 @@ Autonomous robots
 Etc etc
 1 and 2 combined
 
-Script 1: robot check in
+## Script 1: robot check in
 Active classroom, students on their homework, MIRO robot driving around. MIRO robot comes
 across a student. The script is intentionally formatted in a broad way, to allow for improv-like
 adaptations.
@@ -154,7 +154,7 @@ OFFICE-Breakout:
 MIRO: Well I’m glad the student did a relaxing exercise. It seemed very necessary!
 Student: I feel a lot better now. Wheeew
 
-Script 2: deaf student
+## Script 2: deaf student
 Active classroom, students on their homework, MIRO at the desk of a deaf student.
 MIRO goes up to the deaf student and tries to get their attention through verbal instructions.
 The student does not hear the instructions
@@ -198,7 +198,7 @@ Emotion: confused
 OFFICE-Breakout:
 Deaf student: This robot is acting really weird. I have no idea what to think of this.
 
-OUR DESIGNED TOOL: HRI OFFICE-SCRIPT TEMPLATE
+## OUR DESIGNED TOOL: HRI OFFICE-SCRIPT TEMPLATE
 Setup:
 - [Describe the setup of the scenario, where is it, when is it, who is on screen, any
 important people for the scenario that are off-screen]

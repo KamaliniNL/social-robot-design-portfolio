@@ -1,7 +1,7 @@
 #BUILDING BLOCKS
 
-<img width="829" height="473" alt="image" src="https://github.com/user-attachments/assets/42f39d06-79a5-4ca0-aafc-f3c9fcdd7a3a" />
-![MiRo-E, hardware and software]
+
+![MiRo-E, hardware and software]<img width="829" height="473" alt="image" src="https://github.com/user-attachments/assets/42f39d06-79a5-4ca0-aafc-f3c9fcdd7a3a" />
 
 Hardware: for the hardware we can utilize the Miro’s built-in hardware, such as the actuated
 eyes and 3 DoF neck. This should give us enough creative freedom to express physical

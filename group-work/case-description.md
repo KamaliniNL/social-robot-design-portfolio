@@ -25,8 +25,49 @@ The **indirect users** are student wellbeing coordinators and university managem
 
 ## Design Problem and Motivation
 
-<img width="529" height="528" alt="image" src="https://github.com/user-attachments/assets/757f2405-87e4-4e60-b1b9-75dc49b477ec" />
+Research question (examples):
+● How can the Miro robot….
+● How can the Miro robot be expanded upon to help students (ages 18-24) with their
+overall well-being?
+● How can the Miro robot transform to guide students (ages 18-24) through a study
+session?
 
+<img width="451" height="530" alt="image" src="https://github.com/user-attachments/assets/60d3f08a-19a6-47f8-97b6-803bf06ed471" />
+![Few well-being questions]
+
+<img width="503" height="527" alt="image" src="https://github.com/user-attachments/assets/11d55434-90ae-4156-8644-2796403b10e8" />
+![Cards chosen from User Innovation Toolkit]
+
+The cards we picked were Scenario analysis, Storyboard and Experience map.
+Argue how they could be of value for the given challenge: what can you learn by applying
+method X to our problem Y? Use your imagination, be as concrete as possible, exaggerate!
+**Scenario analysis:**
+- A scenario analysis can be used to imagine future scenarios and reason through them to
+get a better understanding of our challenge. For example, your target audience is
+students. You could imagine scenarios where students are sitting down and talking with
+the Miro robot. The Miro robot would be asking questions, and the students answering.
+You can put yourself in the shoes of the students, and walk through the scenario itself as
+if you were there.
+- We could also use the scenario analysis to analyse the situation before the miro robot is
+implemented to see what problems come up during the original situation
+
+**Storyboard**
+- A storyboard can be used to visualise how a user uses a product or service. It is a bit
+similar to the scenario analysis, but now we are really visually looking at what is
+happening. So you could have images of the Miro robot talking, and students listening.
+Or it could capture a specific expression of the Robot or students.
+
+**Experience map:**
+- An experience map can be used to visualize the experience the user goes through while
+using the product. An experience map can become even more valuable when two are
+made of the same scenario, one without the product and one with the product. These
+can then be compared to see what the effect of the product actually is. It can also be
+used during the design stage to visualize what effect we want the product to have on the
+experience.
+
+
+<img width="529" height="528" alt="image" src="https://github.com/user-attachments/assets/757f2405-87e4-4e60-b1b9-75dc49b477ec" />
+[Mindmap]
 
 A recurring question during early group discussions was how the MiRo-E robot should initiate, respond to, or avoid interaction in a study environment. Should it approach a student who appears stuck? Should it wait for a signal? Should it respond to proximity or sound cues? The answer depended heavily on the specific situation that is the student's current emotional or behavioural state, the action the robot was considering, and the social norms of the space.
 

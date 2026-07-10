@@ -202,20 +202,17 @@ OUR DESIGNED TOOL: HRI OFFICE-SCRIPT TEMPLATE
 Setup:
 - [Describe the setup of the scenario, where is it, when is it, who is on screen, any
 important people for the scenario that are off-screen]
+
 Robot [name]:
-- Action:
-- [Describe the function of the robot. What is it doing?]
-- Intent:
-- [Describe the purpose. Why is it doing that?]
-- Emotion:
-- [Describe the feeling/emotion behind the action and intent.]
+Action: [Describe the function of the robot. What is it doing?]
+Intent: [Describe the purpose. Why is it doing that?]
+Emotion: [Describe the feeling/emotion behind the action and intent.]
+
 [insert your usergroup]:
-- Action:
-- [Describe the action of the user. What are they doing?]
-- Intent:
-- [Describe the purpose. Why are they doing that?]
-- Emotion:
-- [Describe the feeling/emotion behind the action and intent.]
+Action: [Describe the action of the user. What are they doing?]
+Intent: [Describe the purpose. Why are they doing that?]
+Emotion: [Describe the feeling/emotion behind the action and intent.]
+
 OFFICE-Breakout: [question asked]
 [Include a general funny comment or reflection about the scene. It could be mocking the
 scenario or interaction. It is set up in an interview documentary style as if the character/robot is

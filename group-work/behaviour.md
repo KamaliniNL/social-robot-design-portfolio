@@ -24,6 +24,40 @@ theatre: structured enough to generate specific scenarios, open enough to allow 
 Wildcard - map directly onto the Sense-Think-Act structure that underlies most social robot behaviour architectures. The Human Action card represents the sensed input; the Robot Action 
 card represents the selected response; the Wildcard represents an environmental or contextual modifier that shifts the situation mid-interaction.
 
+The thought process behind this:
+What can help you as a designer prototype (high level) robot behaviour? Especially tools that do not rely on a Wizard of Oz approach are welcome (or think of interesting hybrids. What could help you prototype and test?
+Flowchart, cognitive walkthrough, cards, board, software (ARC) - recipes
+Given that your phone/laptop  have sooo many capabilities (already) - how to connect / interface this to motion and embodiment?   How make ChatGTP4.o move a servo?
+Can you prompt ChatGTP to converse in a certain tone of voice, with predefined (bound) knowledge?
+Design tool (ideas):
+MakeYourOwnStoryboard. 
+CardAgainstHumanities. Deck of prompt cards
+Goal: Finding out robot (hardware) capabilities, and exploring scenarios for robot behaviour.
+
+<img width="621" height="440" alt="image" src="https://github.com/user-attachments/assets/1f927c09-9dc9-4cab-a9c2-8da36367d615" />
+
+CardsAgainstRobots
+A game you play with multiple people where the goal is to find out the robot’s
+capabilities and explore topics related to the robots ‘job’ (scenarios). The robot in
+question might not have the capability to do what you want it to do, or functionality might
+not be appropriate to the use case. This step ensures that these are aligned. You also
+explore the different scenarios (and thus its behavior) through using different types of
+cards like emotion cards, actuation cards and wildcards.
+In each step, the players pick one card of each to play out the scenario/ behavior.
+The first and second cards are randomly selected from the corresponding card piles.
+When the cards have been selected, the humans act out the scenario and puppeteer
+the robot and the ways the scenario could play out with different robot interactions. This
+can be physical puppeteering, or for example through the use of a controller.
+
+<img width="258" height="306" alt="image" src="https://github.com/user-attachments/assets/45e1b704-76fb-4630-bb52-392bc8098b61" />
+
+<img width="392" height="314" alt="image" src="https://github.com/user-attachments/assets/0a18bdaf-d8ee-4969-b8f8-788048fc4e60" />
+
+Human Action | Robot Action | Wildcards |
+Sits at desk frustrated | Goes to desk | *Tension*|
+| Mumbling equations | "That's wrong" | *Ensue crying* |
+
+
 This framing makes explicit what HRI-specific knowledge the tool embeds: the assumption that robot behaviour in a social context is always *relational* - it does not exist independently 
 of what the human is doing - and that appropriate behaviour is therefore not a fixed output but a function of context. A generic software design tool (a flowchart, a decision tree) treats
 behaviour as a mapping from state to action. CardsAgainstRobots treats it as an improvised negotiation between two actors, one of whom happens to be a robot.

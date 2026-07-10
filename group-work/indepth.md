@@ -60,9 +60,26 @@ student states and robot actions. Human Action cards include states like daydrea
 productive but off-task. Robot Action cards include verbal prompts ("Do you need a small break?", "What are you up to?", "Done with homework?") and physical cues ("Looking curious"). The
 card visual design was handled by Liz van Ginderen, with colour coding and iconography making card type immediately legible.
 
-**Instruction manual:** Written by Anna Hornman. Covers setup, both game protocols step by step, and a note that the two games can be played in any order.
+Here are all the cards used:
+Human Actions:
+<img width="318" height="505" alt="image" src="https://github.com/user-attachments/assets/a7812e3c-9876-4554-b747-2988eb718d8d" />
+<img width="288" height="500" alt="image" src="https://github.com/user-attachments/assets/e4131393-958b-4913-9e8e-7b3fa5296309" />
+<img width="258" height="500" alt="image" src="https://github.com/user-attachments/assets/2803c68d-fec5-4a60-aee0-f4af74a00a16" />
 
-**Evaluation form and guidelines:** Designed by Kamalini Narayanan and Oyindrila Sen Gupta, grounded in HRI CUES (Cuadra et al., 2024). The form records which cards were used, what 
+Robot Actions:
+<img width="272" height="498" alt="image" src="https://github.com/user-attachments/assets/e4e7734b-651e-46e5-a17b-a18e2a53dc38" />
+<img width="268" height="493" alt="image" src="https://github.com/user-attachments/assets/cc7c773b-919b-47db-87c6-265a09c1bd8b" />
+<img width="264" height="495" alt="image" src="https://github.com/user-attachments/assets/af3181f7-d01f-4127-992c-360ced40a1e0" />
+
+Wildcards:
+<img width="262" height="491" alt="image" src="https://github.com/user-attachments/assets/365358e0-5bb1-4bfd-8156-9f693c35f519" />
+<img width="261" height="496" alt="image" src="https://github.com/user-attachments/assets/718da82e-7155-4411-b8f4-67406378cfa6" />
+<img width="263" height="495" alt="image" src="https://github.com/user-attachments/assets/7036eb7b-8a13-4398-bf30-9e5216197fa8" />
+
+
+**Instruction manual:** Covers setup, both game protocols step by step, and a note that the two games can be played in any order.
+
+**Evaluation form and guidelines:** Designed by me and Oyindrila Sen Gupta, grounded in HRI CUES (Cuadra et al., 2024). The form records which cards were used, what 
 happened during enactment, and observer ratings across eight criteria on a 1–5 scale: effective, motivational, clear, kind, natural, empathic, predictable, and trustworthy. The 
 guidelines specify observer behaviour in three phases - before the scenario (note the cards, prepare the form), during (observe what is visibly played, do not rate yet), and after 
 (recollect, go through all criteria, rate based on what was seen not what could have been better). A QR code links to a printable PDF of additional forms so the toolkit can be used 
@@ -71,7 +88,7 @@ repeatedly.
 **Puppeteering guidelines:** Written to ensure consistent and legible MiRo-E operation - smooth stick movements, staying in character, improvising where appropriate, being open to 
 different interpretations.
 
-**Poster:** Produced by Liz van Ginderen and Kamalini Narayanan. Planning notes from Session 8 specified that the poster should show example cards, use the same visual style as the card 
+**Poster:** Designed by me and Liz van Ginderen. Planning notes from Session 8 specified that the poster should show example cards, use the same visual style as the card 
 set, and clearly display case, tool structure, game explanation, and evidence of application with images of the tool in use.
 
 **Video:** Planning notes from Session 8 specified four content sections within a five-minute format - challenge framing, tool demonstration, failure modes, and evaluation - with a 

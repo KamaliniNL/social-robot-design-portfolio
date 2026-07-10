@@ -77,6 +77,7 @@ Here are all the cards used:
 <img width="261" height="496" alt="image" src="https://github.com/user-attachments/assets/718da82e-7155-4411-b8f4-67406378cfa6" />
 <img width="263" height="495" alt="image" src="https://github.com/user-attachments/assets/7036eb7b-8a13-4398-bf30-9e5216197fa8" />
 
+# 
 
 **Instruction manual:** Covers setup, both game protocols step by step, and a note that the two games can be played in any order.
 

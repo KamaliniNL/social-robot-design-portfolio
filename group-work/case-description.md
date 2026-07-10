@@ -25,6 +25,9 @@ The **indirect users** are student wellbeing coordinators and university managem
 
 ## Design Problem and Motivation
 
+<img width="529" height="528" alt="image" src="https://github.com/user-attachments/assets/757f2405-87e4-4e60-b1b9-75dc49b477ec" />
+
+
 A recurring question during early group discussions was how the MiRo-E robot should initiate, respond to, or avoid interaction in a study environment. Should it approach a student who appears stuck? Should it wait for a signal? Should it respond to proximity or sound cues? The answer depended heavily on the specific situation that is the student's current emotional or behavioural state, the action the robot was considering, and the social norms of the space.
 
 This situational complexity, rather than resolving into a single preferred interaction model, is what drove the group's design direction. Rather than fixing a behaviour set in advance, the group developed a card-based improvisation toolkit (CardsAgainstRobots) that allows designers and students to enact and explore MiRo-E behaviours across a range of interaction scenarios. This toolkit is the primary design contribution documented in this portfolio.

@@ -53,9 +53,11 @@ can be physical puppeteering, or for example through the use of a controller.
 
 <img width="392" height="314" alt="image" src="https://github.com/user-attachments/assets/0a18bdaf-d8ee-4969-b8f8-788048fc4e60" />
 
-Human Action | Robot Action | Wildcards |
-Sits at desk frustrated | Goes to desk | *Tension*|
+| Human Action | Robot Action | Wildcards |
+|---|---|---|
+| Sits at desk frustrated | Goes to desk | *Tension*|
 | Mumbling equations | "That's wrong" | *Ensue crying* |
+| "Finally done!" | Happy move | ... |
 
 
 This framing makes explicit what HRI-specific knowledge the tool embeds: the assumption that robot behaviour in a social context is always *relational* - it does not exist independently 
